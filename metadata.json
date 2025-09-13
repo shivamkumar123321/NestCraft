@@ -1,0 +1,5 @@
+{
+  "name": "NestCraft",
+  "description": "An AI-powered home layout generator that crafts detailed architectural plans based on your vision and specifications. Describe your dream home, and NestCraft will generate a layout for you.",
+  "requestFramePermissions": []
+}
